@@ -2,9 +2,9 @@
 
 # Hi there 👋,
 
-## 💫 Little Bit More About Me:
+## 💫 Little Bit More About Me
 
-## INTERESTS:
+## INTERESTS
 <p> 💻 New Technologies</p>
 <p> 💸 High interest in the financial markets and global economy</p>
 <p> 💰 Investing, stock market, stock analysis, macroeconomics, global financial systems</p>
