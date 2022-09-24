@@ -2,7 +2,7 @@
 
 # Hi there 👋,
 
-# 💫 Little Bit More About Me
+## 💫 Little Bit More About Me:
 
 ## INTERESTS:
 <p> 💻 New Technologies</p>
