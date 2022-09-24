@@ -7,11 +7,12 @@
  
 ## INTERESTS
 <p> 💻 New Technologies</p>
-<p> 💸 High interest in the financial markets and global economy</p>
-<p> 💰 Investing, stock market, stock analysis, macroeconomics, global financial systems</p>
-<p> 🚀 Rockets and space</p>
+<p> 💰 Investing & stock market</p>
+<p> 💸 Crypto</p>
+<p> 🚀 Rockets & space</p>
 <p> 🛸 Drones</p>
 <p> 🚙 Electric cars</p>
+<p> 🗣 Different cultures & languages </p>
 
 
 ## 💻 Skills
