@@ -38,7 +38,7 @@
 
 ## 👥 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/palade91/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/catalin-palade/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
  
 
