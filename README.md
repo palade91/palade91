@@ -4,6 +4,7 @@
 
 ## 💫 Little Bit More About Me
 
+ 
 ## INTERESTS
 <p> 💻 New Technologies</p>
 <p> 💸 High interest in the financial markets and global economy</p>
@@ -12,12 +13,14 @@
 <p> 🛸 Drones</p>
 <p> 🚙 Electric cars</p>
 
+
 ## 💻 Skills
 <p>
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" style="margin-bottom: 4px;" height="40px">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" style="margin-bottom: 4px;" height="40px">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" style="margin-bottom: 4px;" height="40px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/storybook/storybook-original.svg" style="margin-bottom: 4px;" height="40px">
 </p>
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" style="margin-bottom: 4px;" height="40px">
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/circleci/circleci-plain.svg" style="margin-bottom: 4px;" height="40px">
@@ -31,12 +34,13 @@
  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" style="margin-bottom: 4px;" height="40px"> 
 </p>
 
+
 ## 👥 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/palade91/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
  
- 
- ## 🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palade91&theme=tokyonight)](https://git.io/streak-stats)
