@@ -1,5 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
+## 📊 Profile Stats
+
 ![Profile Views](https://visitcount.itsvg.in/api?id=palade91&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## 🛠️ Technologies & Tools
