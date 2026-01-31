@@ -2,7 +2,7 @@
 
 ## 📊 Profile Stats
 
-![Profile Views](https://visitcount.itsvg.in/api?id=palade91&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=palade91&label=Profile%20Views&color=12&style=flat)
 
 ## 🛠️ Technologies & Tools
 
